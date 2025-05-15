@@ -1,2 +1,2 @@
-This is the My First Ever Javacript Code for Calculating Age from your Date of Birth.
+This is the My First Ever Javacript Program for Calculating Age from your Date of Birth.
 Thanks!
